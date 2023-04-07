@@ -1,0 +1,15 @@
+C:\Geekbrains\Git\kr\Practice\bin\Debug\net6.0\Practice.exe
+C:\Geekbrains\Git\kr\Practice\bin\Debug\net6.0\Practice.deps.json
+C:\Geekbrains\Git\kr\Practice\bin\Debug\net6.0\Practice.runtimeconfig.json
+C:\Geekbrains\Git\kr\Practice\bin\Debug\net6.0\Practice.dll
+C:\Geekbrains\Git\kr\Practice\bin\Debug\net6.0\Practice.pdb
+C:\Geekbrains\Git\kr\Practice\obj\Debug\net6.0\Practice.csproj.AssemblyReference.cache
+C:\Geekbrains\Git\kr\Practice\obj\Debug\net6.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrains\Git\kr\Practice\obj\Debug\net6.0\Practice.AssemblyInfoInputs.cache
+C:\Geekbrains\Git\kr\Practice\obj\Debug\net6.0\Practice.AssemblyInfo.cs
+C:\Geekbrains\Git\kr\Practice\obj\Debug\net6.0\Practice.csproj.CoreCompileInputs.cache
+C:\Geekbrains\Git\kr\Practice\obj\Debug\net6.0\Practice.dll
+C:\Geekbrains\Git\kr\Practice\obj\Debug\net6.0\refint\Practice.dll
+C:\Geekbrains\Git\kr\Practice\obj\Debug\net6.0\Practice.pdb
+C:\Geekbrains\Git\kr\Practice\obj\Debug\net6.0\Practice.genruntimeconfig.cache
+C:\Geekbrains\Git\kr\Practice\obj\Debug\net6.0\ref\Practice.dll
